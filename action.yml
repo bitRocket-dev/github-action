@@ -1,0 +1,7 @@
+name: "Hello world"
+description: "Saying Hello to the World!"
+author: "Riccardo Genova <riccardo@bitrocket.dev>"
+
+runs:
+  using: "node12"
+  main: "index.js"
