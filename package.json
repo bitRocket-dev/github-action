@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "bump": "npm version",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
